@@ -10,7 +10,7 @@ tags:
   - pistas
 ---
 
-<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips aren't localised yet, but it's ok to translate them here while noting that they don't have translations in-game. -->
+<!-- For translators: to translate this page, select the corresponding language in stable and open `Localisation/XX.txt` in your osu! installation folder. Translation keys starting with MenuTip_ and EditorTip_ contain the respective translated tips. The lazer tips are translated on Crowdin: https://crowdin.com/editor/osu-web/656/en-es -->
 
 # Consejos del menú
 
@@ -53,7 +53,7 @@ Estos consejos aparecen en la parte inferior del [menú principal](/wiki/Client/
 
 ## Editor
 
-Estos consejos aparecen en el [editor de beatmaps](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo del objeto de golpeo](/wiki/Client/Beatmap_editor/Timelines#objetos-de-golpeo). *Están desactualizados y no son los mismos que los del cliente en inglés*
+Estos consejos aparecen en el [editor de beatmaps](/wiki/Client/Beatmap_editor) debajo de la [línea de tiempo de los objetos](/wiki/Client/Beatmap_editor/Timelines#objetos). *Están desactualizados y no son los mismos que los del cliente en inglés*
 
 - Pulsa `H` para mostrar un listado de atajos de teclado.
 - Pulsa `V` para saltar al último círculo. Púlsalo de nuevo para saltar al final de la canción.

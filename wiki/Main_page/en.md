@@ -39,7 +39,7 @@ Everything about clicking circles, striking drums, catching fruits, and playing 
 
 [Game modes](/wiki/Game_mode): [osu!](/wiki/Game_mode/osu!) • [osu!taiko](/wiki/Game_mode/osu!taiko) • [osu!catch](/wiki/Game_mode/osu!catch) • [osu!mania](/wiki/Game_mode/osu!mania)
 
-[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
+[Beatmap](/wiki/Beatmap) • [Difficulty](/wiki/Beatmap/Difficulty) • [Hit object](/wiki/Gameplay/Hit_object) • [Mods](/wiki/Gameplay/Game_modifier) • [Mods (lazer)](/wiki/Gameplay/Game_modifier_(lazer)) • [Score](/wiki/Gameplay/Score) • [Replay](/wiki/Gameplay/Replay) • [Medals](/wiki/Medals) • [Multi](/wiki/Client/Interface/Multiplayer)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -63,7 +63,7 @@ Ranking is the process of obtaining a leaderboard for a beatmap, which makes it 
 
 [Submission](/wiki/Beatmapping/Beatmap_submission) • [Modding](/wiki/Modding) • [Ranking procedure](/wiki/Beatmap_ranking_procedure) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved)
 
-[Ranking criteria](/wiki/Ranking_criteria): [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
+[Ranking criteria](/wiki/Ranking_criteria): [Metadata](/wiki/Ranking_criteria/Metadata) • [osu!](/wiki/Ranking_criteria/osu!) • [osu!taiko](/wiki/Ranking_criteria/osu!taiko) • [osu!catch](/wiki/Ranking_criteria/osu!catch) • [osu!mania](/wiki/Ranking_criteria/osu!mania)
 
 </div>
 <div class="wiki-main-page-panel">
@@ -100,9 +100,11 @@ Social interaction is one of main things that fuel osu! players all around the w
 
 Places: [Forum](/wiki/Community/Forum) • [IRC](/wiki/Community/Internet_Relay_Chat) • [Discord servers](/wiki/Community/Discord_servers)
 
-[Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
+Initiatives: [Tournaments](/wiki/Tournaments) • [Beatmap Spotlights](/wiki/Beatmap_Spotlights) • [Contests](/wiki/Contests) • [Community mentorship program](/wiki/Community/Community_Mentorship_Program)
 
-[Projects](/wiki/Community/Projects) • [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!monthly](/wiki/Community/osu!monthly) • [osu!talk](/wiki/Community/Video_series/osu!talk)
+[Projects](/wiki/Community/Projects): [Mappers' Guild](/wiki/Community/Mappers_Guild) • [Project Loved](/wiki/Community/Project_Loved) • [osu! community meetings](/wiki/Community/osu!_community_meetings) • [osu!monthly](/wiki/Community/osu!monthly)
+
+Media: [Bespoke music](/wiki/Community/Bespoke_music) • [Manga](/wiki/Community/Manga) • [Video series](/wiki/Community/Video_series) • [osu!academy](/wiki/Community/Video_series/osu!academy) • [osu!mapping](/wiki/Community/Video_series/osu!mapping) • [osu!talk](/wiki/Community/Video_series/osu!talk) • [lazer updates](/wiki/Community/Video_series/lazer_updates)
 
 Organisations: [osu! UCI](/wiki/Community/Organisations/osu!_UCI)
 
@@ -124,7 +126,7 @@ osu! wouldn't have been possible without many users helping with development, ma
 
 Interact with osu! via other applications and media, or help it grow further.
 
-[API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [Brand identity guidelines](/wiki/Brand_identity_guidelines) • [osu! Discord server](/wiki/Community/osu!_Discord_server)
+[API](/wiki/osu!api) • [Bot account](/wiki/Bot_account) • [Brand identity guidelines](/wiki/Brand_identity_guidelines) • [osu! Discord server](/wiki/Community/Discord_servers#official)
 
 </div>
 <div class="wiki-main-page-panel">
